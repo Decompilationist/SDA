@@ -1,2 +1,2 @@
 # SDA
-Situações de aprendizagem pertinentes ao curso de Desenvolvimento de Sistemas do SENAI.
+Situações de aprendizagem pertinente ao curso de Desenvolvimento de Sistemas do SENAI.
